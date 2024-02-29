@@ -34,7 +34,7 @@ docker build -t cathybank .
 ```
 4. run 
 ```
-docker run -d -p 9527:9090 --name cathybank cathybank
+docker run -d -p 9527:9090 --name cathybank cathybank .
 ```
 5. 訪問啓動項目
 ```
